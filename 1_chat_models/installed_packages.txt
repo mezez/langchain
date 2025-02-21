@@ -1,0 +1,3 @@
+pip install -qU langchain-openai
+pip install python-dotenv
+pip install langchain-google-firestore
