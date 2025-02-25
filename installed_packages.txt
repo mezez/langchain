@@ -1,0 +1,6 @@
+pip install -qU langchain-openai
+pip install python-dotenv
+pip install langchain-google-firestore
+pip install chromadb (a vector store with local storage features; cloud not mandatory. Contains all the core modules needed to create the vector store)
+pip install langchain-chroma (wrapper connecting langchain app with the vector store)
+pip install langchainhub (agents and tool)
